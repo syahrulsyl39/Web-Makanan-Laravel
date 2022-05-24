@@ -9,7 +9,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
     <title>Hello, world!</title>
 </head>
 
@@ -32,8 +32,12 @@
                     <a class="nav-item nav-link" href="#">Pizza</a>
                     <a class="nav-item nav-link" href="#">Burger</a>
                     <a class="nav-item nav-link" href="#">Pasta</a>
+
                 </div>
             </div>
+            <span class="navbar-text">
+                <a href=""><i class="bi bi-box-arrow-in-right mr-2"></i>Login</a>
+            </span>
         </div>
     </nav>
 
